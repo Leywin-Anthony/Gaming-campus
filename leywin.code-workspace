@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../mastering-front-end-7af23b690b7d335a9c1fcd54fb93c61d628f2699"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "leywin"
+  }
+}
